@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Android, Xamarin, Flutter, Fullstack, NodeJs, Angular, Typescript, DevOps, v.v.. 
+- 🔭 Android, Xamarin, Flutter, Fullstack, NodeJs, Angular, ReactJS, Typescript, DevOps, v.v.. 
 - 🌱 Enthusiasm and Determination are my key words.
 - 📫 How to reach me: tien.tominh@gmail.com
 
