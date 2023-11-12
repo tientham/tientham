@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 Android, React Native, Xamarin, Flutter, Fullstack, NodeJs, Angular, ReactJS, Typescript, DevOps, v.v.. 
+- 🔭 I’m currently working on following stacks: Speech To Text / Text To Speech - Flutter - React Native - Python Flask - ...
+- ⚡ I am capable to build Fast and Optimized mobile applications.
+- ⚡ I am capable to create a scalable system which involves in Kubernetes, Docker, CI/CD, AWS, GCP and cross platform mobile applications.
+- ⚡ I response very fast.
 - 🌱 Enthusiasm and Determination are my key words.
 - ✨ Problem solver.
 - 📫 How to reach me: tien.tominh@gmail.com
