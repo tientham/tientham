@@ -1,15 +1,15 @@
-### Hi 👋
+### Mobile (React Native, Flutter) and Fullstack Developer 👋
 
-- 🔭 Mobile (React Native, Flutter) and Fullstack developer - Oh, I am capable to be a DevOps developer too :) 
-- 🔭 I’m currently working on following stacks: STT/TTS (AI) - Flutter - React Native - Python Flask - ...
+- 🔭 I am capable to be a DevOps developer too :) 
+- 🔭 I am currently working on following stacks: STT/TTS (AI) - Flutter - React Native - Python Flask - ...
 - ⚡ I am capable to build Fast and Optimized mobile applications.
 - ⚡ I am capable to create a scalable system which involves in Kubernetes, Docker, CI/CD, AWS, GCP and cross platform mobile applications.
 - ⚡ I response very fast to my clients.
-- 🌱 Enthusiasm and Determination are my key words.
 - ✨I am a Problem Solver.
+- 🌱 Enthusiasm and Determination are my key words.
 - 📫 How to reach me: tien.tominh@gmail.com
 
-Following are my expertises:
+### My expertises:
 
 - ⭐ **Programming Language**: JavaScript, TypeScript, Dart, Python, C#, Java, Kotlin.
 - ⭐ **Mobile development**: Flutter, React Native, Native Android, Xamarin.
