@@ -20,7 +20,7 @@
 - ⭐ **Clouds**: GCP, AWS, Digital Ocean.
 - ⭐ Scripting Language: Bash scripting.
 - ⭐ Architecture: Clean code architecture, MVVM, MVP, MVC, SOLID principal.
-- ⭐ Technology Stack: Websocket, MQTT, Bluetooth LE, Linphone, Voip, QRCode, IoT, NFC tag, Fingerprint authentication, Google Map, Leaflet, audio and video streaming with RTMP.
+- ⭐ Technology Stack: Websocket, MQTT, Bluetooth LE, Linphone, Voip, QRCode, IoT, NFC tag, Fingerprint authentication, Google Map, Leaflet, RTMP, Fastly CDN.
 - ⭐ Fullstack experience in working with ROS 
 
 <!--
