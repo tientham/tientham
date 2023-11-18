@@ -1,7 +1,7 @@
 ### Mobile (React Native, Flutter) and Fullstack Developer 👋
 
 - 🔭 I am capable to be a DevOps developer too :) 
-- 🔭 I am currently working on following stacks: STT/TTS (AI) - Wake Word - Flutter - React Native - Python Flask - ...
+- 🔭 I am currently working on following stacks: STT/TTS (AI) - Wake Word Detection - Flutter - React Native - Python Flask - ...
 - ⚡ I am capable to build Fast and Optimized mobile applications.
 - ⚡ I am capable to create a scalable system which involves in Kubernetes, Docker, CI/CD, AWS, GCP and cross platform mobile applications.
 - ⚡ I response very fast to my clients.
