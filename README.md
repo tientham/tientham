@@ -1,4 +1,4 @@
-### Mobile (React Native, Flutter) and Fullstack Developer 👋
+### Problem Solver, Doer, Thinker, Brainstomer 👋
 
 - 🔭 I am capable to be a DevOps developer too :) 
 - 🔭 I am currently working on following stacks: STT/TTS (AI) - Wake Word Detection - Flutter - React Native - Python Flask - ...
