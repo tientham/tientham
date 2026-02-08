@@ -1,39 +1,52 @@
-### Problem Solver, Doer, Thinker, Brainstomer 👋
+# Tien To Minh
 
-- 🔭 I am capable to be a DevOps developer too :) 
-- 🔭 I am currently working on following stacks: STT/TTS (AI) - Wake Word Detection - Flutter - React Native - Python Flask - ...
-- ⚡ I am capable to build Fast and Optimized mobile applications.
-- ⚡ I am capable to create a scalable system which involves in Kubernetes, Docker, CI/CD, AWS, GCP and cross platform mobile applications.
-- ⚡ I response very fast to my clients.
-- ✨I am a Problem Solver.
-- 🌱 Enthusiasm and Determination are my key words.
-- 📫 How to reach me: tien.tominh@gmail.com
+I work at the intersection of **systems thinking, execution, and accountability**.
 
-### My expertises:
+## What I Do
 
-- ⭐ **Programming Language**: JavaScript, TypeScript, Dart, Python, C#, Java, Kotlin.
-- ⭐ **Mobile development**: Flutter, React Native, Native Android, Xamarin.
-- ⭐ **Backend**: Nodejs, NestJS, Flask, Firebase
-- ⭐ **Frontend**: Wordpress, React JS, NextJS, Vue, Angular, ejs, HTML5, CSS, Bootstrap
-- ⭐ **Database**: MongoDB, Sqlite, Postgres, Realm, Firebase database
-- ⭐ **DevOps**: Kubernetes, Docker, Github Actions, Travis, Fastlane.
-- ⭐ **Clouds**: GCP, AWS, Digital Ocean.
-- ⭐ Scripting Language: Bash scripting.
-- ⭐ Architecture: Clean code architecture, MVVM, MVP, MVC, SOLID principal.
-- ⭐ Technology Stack: Websocket, MQTT, Bluetooth LE, Linphone, Voip, QRCode, IoT, NFC tag, Fingerprint authentication, Google Map, Leaflet, RTMP, Fastly CDN.
-- ⭐ Fullstack experience in working with ROS 
+I design and improve systems — both technical and operational.
 
-<!--
-**tientham/tientham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in environments where:
+- **Systems need to scale beyond their original design**
+- **Technical and operational evolution must happen in parallel**
+- **Execution requires clear ownership and coordination**
 
-Here are some ideas to get you started:
+My role is to:
+- **Identify patterns** and design sustainable solutions
+- **Build operating models** that work under real-world constraints
+- **Enable smooth transitions** and knowledge transfer
+- **Establish clarity** in execution and accountability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I Work
+
+I think in **systems, not tasks**. I prioritize **clarity over speed**, because clarity enables sustainable velocity.
+
+I separate:
+- Strategy vs execution
+- Authority vs responsibility  
+- Delivery vs governance
+
+I work independently and selectively. When alignment exists, I move fast. When it needs building, I help establish it.
+
+## Technical Foundation
+
+**Languages**: TypeScript, Python, Dart, JavaScript  
+**Systems**: Kubernetes, Docker, CI/CD (GitHub Actions, Travis)  
+**Mobile**: Flutter, React Native, Native Android  
+**Backend**: Node.js, NestJS, Flask, Firebase  
+**Frontend**: React, Next.js, Vue  
+**Cloud**: AWS, GCP, Digital Ocean  
+**Architecture**: Clean Architecture, MVVM, SOLID  
+
+**Specialized**: AI (STT/TTS, Wake Word), Real-time systems (WebSocket, MQTT), IoT, VoIP, Bluetooth LE, ROS
+
+## Operating Principles
+
+- Execution with clear scope
+- Responsibility with authority
+- Collaboration with mutual accountability
+- Everything explicit, nothing implied
+
+---
+
+📫 tien.tominh@gmail.com
