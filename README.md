@@ -6,27 +6,19 @@ I work at the intersection of **systems thinking, execution, and accountability*
 
 I design and improve systems — both technical and operational.
 
-I work in environments where:
-- **Systems need to scale beyond their original design**
-- **Technical and operational evolution must happen in parallel**
-- **Execution requires clear ownership and coordination**
-
-My role is to:
-- **Identify patterns** and design sustainable solutions
-- **Build operating models** that work under real-world constraints
-- **Enable smooth transitions** and knowledge transfer
-- **Establish clarity** in execution and accountability
+I focus on:
+- **Identifying patterns** and designing sustainable solutions
+- **Building operating models** that work under real-world constraints
+- **System architecture** and technical leadership
+- **Long-term sustainability** and maintainability
 
 ## How I Work
 
-I think in **systems, not tasks**. I prioritize **clarity over speed**, because clarity enables sustainable velocity.
+I think in **systems, not tasks**. I prioritize **clarity**, because clarity enables sustainable velocity.
 
-I separate:
-- Strategy vs execution
-- Authority vs responsibility  
-- Delivery vs governance
+I approach work through structured thinking: strategy, execution, authority, responsibility, delivery, and governance.
 
-I work independently and selectively. When alignment exists, I move fast. When it needs building, I help establish it.
+I work independently and focus on building systems that last.
 
 ## Technical Foundation
 
@@ -39,13 +31,6 @@ I work independently and selectively. When alignment exists, I move fast. When i
 **Architecture**: Clean Architecture, MVVM, SOLID  
 
 **Specialized**: AI (STT/TTS, Wake Word), Real-time systems (WebSocket, MQTT), IoT, VoIP, Bluetooth LE, ROS
-
-## Operating Principles
-
-- Execution with clear scope
-- Responsibility with authority
-- Collaboration with mutual accountability
-- Everything explicit, nothing implied
 
 ---
 
